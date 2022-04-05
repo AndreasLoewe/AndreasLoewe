@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasLoewe
-- 👀 I’m interested in Geodata and maps
-- 🌱 I’m currently learning people skills and projectmanagment skills
+- 👀 I’m interested in Geodata, maps and the processing of those types of data 
+- 🌱 I’m currently learning people skills and project managment
 - 💞️ I’m looking to collaborate on Python projects regarding QGIS 
 
 <!---
